@@ -3,6 +3,7 @@
   "packageManager": "yarn@3.2.1+sha1.712f0d3e236f0705a55d2b7c9be47a717d68dbef",
   "main": "./index.js",
   "types": "./index.d.ts",
+  "license": "MIT",
   "engines": {
     "node": "^14.17.0 || >=16.10.0"
   },
