@@ -1,0 +1,16 @@
+{
+  "name": "@aduh95/structured-clone",
+  "packageManager": "yarn@3.2.1+sha1.712f0d3e236f0705a55d2b7c9be47a717d68dbef",
+  "main": "./index.js",
+  "types": "./index.d.ts",
+  "engines": {
+    "node": "^14.17.0 || >=16.10.0"
+  },
+  "scripts": {
+    "test": "node--test"
+  },
+  "devDependencies": {
+    "@types/node": "^18.0.6",
+    "test": "^3.0.1"
+  }
+}
